@@ -1,0 +1,2 @@
+Strategia rozwiązuje tzw. problem zmniejszania powiązań. Wzorzec osiągna to poprzez zdefiniowanie interfejsów i użycie ich w klasach. Kolejno szczegóły ukrywane są w klasach pochodnych implementujących dany interfejs. Rozwiązujemy ten problem poprzez programowanie do interfejsu zamiast do implementacji („Program to an interface, not an implementation”). Ponieważ klienci związani są z abstrakcją, a nie implementacją, pozostają otwarci na rozszerzanie.
+
